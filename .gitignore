@@ -5,3 +5,4 @@ dist
 __pycache__
 
 .DS_Store
+/src/circuitpython_typeshed.egg-info

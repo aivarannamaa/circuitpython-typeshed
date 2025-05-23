@@ -17,7 +17,6 @@ authors = [
 urls = {"Homepage" = "https://github.com/aivarannamaa/circuitpython-typeshed"}
 requires-python = ">=3.8"
 classifiers = [
-    "Framework :: CircuitPython",
     "License :: OSI Approved :: MIT License",
     "Programming Language :: Python",
     "Typing :: Typed",
